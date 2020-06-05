@@ -1,2 +1,2 @@
-# NLW-1
+# NLW
 NodeJS, ReactJS and React Native 🚀 
